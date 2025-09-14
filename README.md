@@ -61,3 +61,8 @@ Clique no botão abaixo para **verificar minha medalha**:
 Este curso aprimorou minhas habilidades técnicas e fortaleceu minha **capacidade de resolver problemas reais com dados**, tornando-me apto a enfrentar desafios de Ciência de Dados de forma prática e aplicada.
 
 ---
+
+> ⚠️ Observação sobre os projetos:  
+> Por questões de **direitos autorais e propriedade intelectual da WorldQuant University**, os notebooks e materiais originais do curso não foram postados neste repositório.  
+> Este repositório apresenta **apenas o certificado e um resumo detalhado do aprendizado e dos projetos concluídos**, respeitando as diretrizes da universidade.  
+> O conteúdo dos projetos pode ser reproduzido de forma independente por qualquer pessoa que queira praticar com dados similares, garantindo conformidade com as políticas de uso do curso.
